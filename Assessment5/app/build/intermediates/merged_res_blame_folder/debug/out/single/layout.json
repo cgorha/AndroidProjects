@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.assessment5.app-mergeDebugResources-28:/layout/fragment_login.xml",
+        "source": "com.example.assessment5.app-main-31:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.example.assessment5.app-mergeDebugResources-28:/layout/message_row_item.xml",
+        "source": "com.example.assessment5.app-main-31:/layout/message_row_item.xml"
+    },
+    {
+        "merged": "com.example.assessment5.app-mergeDebugResources-28:/layout/fragment_forums.xml",
+        "source": "com.example.assessment5.app-main-31:/layout/fragment_forums.xml"
+    },
+    {
+        "merged": "com.example.assessment5.app-mergeDebugResources-28:/layout/fragment_register.xml",
+        "source": "com.example.assessment5.app-main-31:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "com.example.assessment5.app-mergeDebugResources-28:/layout/fragment_forum_messages.xml",
+        "source": "com.example.assessment5.app-main-31:/layout/fragment_forum_messages.xml"
+    },
+    {
+        "merged": "com.example.assessment5.app-mergeDebugResources-28:/layout/fragment_create_forum.xml",
+        "source": "com.example.assessment5.app-main-31:/layout/fragment_create_forum.xml"
+    },
+    {
+        "merged": "com.example.assessment5.app-mergeDebugResources-28:/layout/forum_row_item.xml",
+        "source": "com.example.assessment5.app-main-31:/layout/forum_row_item.xml"
+    },
+    {
+        "merged": "com.example.assessment5.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.example.assessment5.app-main-31:/layout/activity_main.xml"
+    }
+]
